@@ -23,3 +23,9 @@
 **Today's Progress**: I fell off on my challenge but really want to get back, here's the update
 
 **Thoughts** I have crafted out a new and streamlined schedule for myself to help me work on projects even on days I go to work. I've successfully completed the first 3 sections of the Odin project foundations course. I have taken up a task to design and build a new portfolio for a friend of mine and I plan to make it as amazing as possible. I have taken up Mosh's JavaScript basics course as a refresher to help me with my progress.
+
+### Day 5: May 15, 2024
+
+**Today's Progress**: Completed the Odin project HTML foundations.
+
+**Thoughts** I have completed the Odin's project HTML foundations course and gathered insipiration for the portfolio project I'm about to build.
